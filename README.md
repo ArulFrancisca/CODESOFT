@@ -1,4 +1,4 @@
-# CODESOFT
+# CODSOFT
 CODSOFT Internship Projects
 
 This repository contains all tasks completed during my **CodSoft Internship**.
