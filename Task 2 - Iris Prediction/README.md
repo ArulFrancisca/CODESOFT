@@ -12,7 +12,7 @@ Multiple models were trained and compared based on their accuracy.
 ---
 
 ## 📊 Dashboard
-(combined_dashboard.png)
+!(combined_dashboard.png)
 
 *(The image is stored inside the `figures` folder in this task.)*
 
